@@ -1,5 +1,7 @@
 body 
 {
+    background: steelblue;
+    box-shadow: blueviolet;
     color: black;
     text-align: center;
     font-family: "Arial";
@@ -12,7 +14,12 @@ body
     border: 1px solid #ddd;
     margin: 0 auto;
 }
-
+#cabecera #tagline
+{
+    padding: 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8cm;
+}
 #container h1
 {
     font-size: 20px;
